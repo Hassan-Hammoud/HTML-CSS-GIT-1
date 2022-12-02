@@ -4,3 +4,13 @@
   border-radius: 4px;
   background: #fff;
 }
+.pages__page {
+  border: 1px solid #4491db;
+  border-radius: 4px;
+  background: #fff;
+}
+.countries .country {
+  padding: 20px;
+  margin-bottom: 5px;
+  border: 1px solid red;
+}
